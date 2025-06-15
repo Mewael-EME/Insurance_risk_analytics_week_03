@@ -2,8 +2,8 @@
 
 import pandas as pd
 
-def load_data(path):
-    data_path = "data/insurance_data.txt"
+def load_data(data_path):
+    #data_path = "data/insurance_data.txt"
     df = pd.read_csv(data_path, sep='|')
     print(f"Loaded data with shape: {df.shape}")
     return df
