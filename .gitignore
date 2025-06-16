@@ -193,3 +193,12 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+dvc-storage/
+
+
+
+
+task-2
+notebooks/insurance_data.txt 
+
+ main
