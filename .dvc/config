@@ -9,3 +9,8 @@ task-3
     url = ../dvc-storage
 
 
+
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = ../../dvc-storage
