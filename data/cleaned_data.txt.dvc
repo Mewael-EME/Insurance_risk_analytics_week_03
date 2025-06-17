@@ -1,0 +1,5 @@
+outs:
+- md5: 30142aaba20cc1ffd049c17888fe0ee1
+  size: 329967935
+  hash: md5
+  path: cleaned_data.txt
